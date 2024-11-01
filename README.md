@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tolga Uzan</h1>
+<h1 align="left">Hi there👋</h1>
 
 - 🌱 I’m currently learning **C, C++**
 
