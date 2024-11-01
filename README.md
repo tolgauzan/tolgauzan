@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tolga Uzan</h1>
-<h3 align="center">A learning enthusiast from Turkey</h3>
 
 - 🌱 I’m currently learning **C, C++**
 
