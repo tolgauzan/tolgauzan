@@ -1,3 +1,4 @@
+[![tuzan's 42 stats](https://badge.mediaplus.ma/colorfulwaves/tuzan)](https://github.com/oakoudad/badge42)
 <h1 align="left">Hi there👋</h1>
 
 - 🌱 I’m currently learning **C, C++**
