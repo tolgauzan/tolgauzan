@@ -41,7 +41,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/oakoudad/badge42">
+    <a href="https://github.com/tolgauzan">
       <img src="https://badge.mediaplus.ma/darkblue/tuzan" alt="tuzan's 42 stats" />
     </a>
   </p>
