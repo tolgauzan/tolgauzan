@@ -1,5 +1,3 @@
-<div style="text-align: center;">
-  <h1>Hello World</h1>
 
   - 🌱 I’m currently learning **C, C++**<br>
   - 📫 How to reach me **tolga_uzan@hotmail.com**
@@ -47,4 +45,3 @@
       <img src="https://badge.mediaplus.ma/darkblue/tuzan" alt="tuzan's 42 stats" />
     </a>
   </p>
-</div>
