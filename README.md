@@ -39,9 +39,3 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
   </p>
-
-  <p>
-    <a href="https://github.com/tolgauzan">
-      <img src="https://badge.mediaplus.ma/darkblue/tuzan" alt="tuzan's 42 stats" />
-    </a>
-  </p>
